@@ -36,4 +36,8 @@ To use the PDF Reader, follow these steps:
 
 Contributions are always welcome! If you find any issues or have suggestions for improvement, feel free to fork this repo and create a pull request.
 
+## Author
+| [Agnik Bakshi](https://github.com/Agnik7) |
+|---|
+
 Happy Coding!!
